@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BikeLamp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/holo_red_dark</item>
+    </style>
+
+    <style name="Theme.BikeLamp" parent="Base.Theme.BikeLamp" />
+</resources>
